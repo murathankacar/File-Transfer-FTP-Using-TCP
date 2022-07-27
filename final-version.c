@@ -1,4 +1,4 @@
-/* MEHMET MURATHAN KAÇAR - 20153146 */
+/* MURATHAN KAÃ‡AR */
 
 
 /* C header files */
